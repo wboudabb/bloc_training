@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68770966285",
+    "project_id": "azurneobank",
+    "storage_bucket": "azurneobank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68770966285:android:7d12d1f7f99119b8c1de44",
+        "android_client_info": {
+          "package_name": "com.example.bloc_training"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68770966285-cs0h7lr6qfd2hf5364gqu1537887gm2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3pCnfucXfv8JGgt6919cg3BOfMl7zkRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68770966285-cs0h7lr6qfd2hf5364gqu1537887gm2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
